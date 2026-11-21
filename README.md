@@ -1,0 +1,1 @@
+PROJECT MASK BUILD 044 — Market Spawn Fix\n\nExtract ZIP, open index.html, and press ENTER. You now start in the dense Lantern Market (x=11,z=113), not the old straight Hall approach (z=8). The existing Hall and mask remain accessible in-world.\n\nSee SPAWN-FIX.md for root cause and validation limitations.\n

@@ -1,0 +1,1 @@
+Build 047: fixed duplicate top-level const wetStone declared in both legacy puddle code and Build 046 puddle code. Renamed the new material to maskCityWetStone and updated its use. Validated all inline scripts together as one lexical scope, rather than individually, to catch cross-script duplicate declarations. Browser runtime still untested.\n

@@ -1,0 +1,1 @@
+Confirmed from Build 036 screenshot: Uncaught ReferenceError: blockZ is not defined, phase Preparing outdoor district. Three leftover loops from the old corridor district referenced blockZ after the Build 034 rewrite removed its definition. Build 037 changes downpipes, signs, and awnings to use an explicit set of frontage positions corresponding to organic town buildings.
